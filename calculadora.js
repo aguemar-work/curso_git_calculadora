@@ -10,5 +10,13 @@ function restar(a, b) {
 function multiplicar(a, b) {
   return a * b;
 }
-function divion(a, b) { return a / b}
-function potencia(base, exponente) { return Math.pow(base, exponente); }
+
+function division(a, b) {
+  return a / b
+}
+
+function potencia(base, exponente) {
+  return Math.pow(base, exponente);
+}
+
+function raiz {}
